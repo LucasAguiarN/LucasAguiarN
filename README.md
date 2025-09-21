@@ -28,5 +28,5 @@ Me chamo Lucas Aguiar Nunes, tenho 26 anos e sou moro em Santo André-SP. Trabal
 ## Estatístiscas do GitHub 📊
 
 <div>
-  <img alt="GitHub Stats" width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Aguiar-Nunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&_count=8"
+  <img alt="GitHub Stats" width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAguiarN&theme=tokyonight&layout=compact&custom_title=Tecnologias&_count=8"
 </div>
