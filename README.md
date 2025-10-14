@@ -7,7 +7,6 @@ Me chamo Lucas Aguiar Nunes, tenho 26 anos e sou moro em Santo André-SP. Trabal
 <div>
   <a href="https://www.linkedin.com/in/lucas-aguiar-nunes" target="_blank"><img title="Conecte-se" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil Linkedin"/></a>
   <a href="https://youtu.be/mATrHUdgE7I" target="_blank"><img title="Pitch Pessoal" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Pitch YouTube"/></a>
-  <a href="https://github.com/LucasAguiarN" target="_blank"><img title="Siga-Me" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"/></a>
  </div>
 
 ---
